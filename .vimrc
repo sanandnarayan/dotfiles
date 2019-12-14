@@ -19,3 +19,6 @@ set undolevels=1000
 set wildignore=*.swp,*.bak,*.pyc,*.class
 set nobackup
 set noswapfile
+
+syntax on
+colorscheme desert
